@@ -16,6 +16,7 @@ Anticipated Graduation: May 2027
 
 ## Projects
 **2D Platformer Video Game on Spartan-7 FPGA**
+
 Designed a Super Mario Bros-inspired 2D platformer using the Xilinx Spartan-7 FPGA and the MicroBlaze processor. Developed key game components in SystemVerilog, including accurate dynamic collision detection using color mapping for multiple levels, sound effects, advanced graphics, text graphics manipulation, and character status control (win/death). The game featured keyboard controls and optimized memory management due to the limited BRAM space in the FPGA.
 
 ## Research Experience
