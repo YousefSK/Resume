@@ -1,4 +1,4 @@
-# Resume and Professional Credential
+# Resume
 # Yousef Khojah
 
 **Location:** Champaign, IL | **Email:** yousefk2@illinois.edu
